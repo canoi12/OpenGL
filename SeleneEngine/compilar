@@ -1,0 +1,1 @@
+g++ *.cpp src/graphics/*.cpp -o program -lGL -lGLEW -lSOIL -lglfw3 -lX11 -lXxf86vm -lpthread -ldl -lXrandr -lGLU -lXi -lXinerama -lXcursor
